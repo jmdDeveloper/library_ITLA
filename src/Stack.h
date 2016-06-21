@@ -15,6 +15,7 @@ class Stack
 	public:
 		void push(Element*);
 		Element* pop();
+		void listBook();
 		Stack();
 };
 

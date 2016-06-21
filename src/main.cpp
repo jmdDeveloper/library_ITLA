@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : Library.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Author      : John Michel Delibua
+// Version     : 2.0
+// Copyright   : All right reserved
+// Description : Library in C++
 //============================================================================
 
 #include <iostream>

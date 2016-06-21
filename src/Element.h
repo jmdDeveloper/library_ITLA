@@ -11,11 +11,15 @@
 class Element
 {
 	private:
-		std::string _name;
+		std::string _title;
+		std::string _author;
+		std::string _editorial;
+		std::string _date;
+		std::string _categories;
 		Element* _next;
 
 	public:
-		Element(std::string name);
+		Element(std::string title, std::string author, std::string editoral, std::string date, std::string categories);
 	//This means that Stack can access directly to Element's private members
 	friend class Stack;
 };
